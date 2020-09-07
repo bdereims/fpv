@@ -10,7 +10,8 @@ Batterie: Tattu 3S 650mAh
 RX: TBS Crossfire Nano  
 RX Antenna: Crossfire L shape  
 VTX: TBS Unify Pro32 Nano  
-VTS Antenna: TBS Triumph Pro U.FL  
+VTX Antenna: TBS Triumph Pro U.FL  
+Buzzer: Generic 5v 9mm  
 
 TX: TBS Tango 2  
 Goggle: Skyzone sky03o  
