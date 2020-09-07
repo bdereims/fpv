@@ -9,9 +9,10 @@ Propellers: Ethix S4
 Batterie: CNHL 6S 1300mAh  
 RX: TBS Crossfire Nano  
 RX Antenna: Crossfire Immortal-T  
-Camera: Caddx Ratel Micro
+Camera FPV: Caddx Ratel Micro  
 VTX: TBS Unify Pro HV  
 VTX Antenna: Foxeer Lolipop 3 SMA 
+Camera HD: Caddx Orca  
 Buzzer: ViFly 2 
 
 TX: TBS Tango 2  
