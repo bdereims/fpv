@@ -11,11 +11,11 @@ RX: TBS Crossfire Nano
 RX Antenna: Crossfire Immortal-T  
 Camera FPV: Caddx Ratel Micro  
 VTX: TBS Unify Pro HV  
-VTX Antenna: Foxeer Lolipop 3 SMA 
+VTX Antenna: Foxeer Lolipop 3 SMA   
 Camera HD: Caddx Orca  
 Buzzer: ViFly 2 
 
 TX: TBS Tango 2  
 Goggle: Skyzone sky03o  
 
-Camera Mount + RX/VTX Antenna Support
+Camera Mount + RX/VTX Antenna Support + Arm protections + Front Bumper
